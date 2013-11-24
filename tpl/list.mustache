@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<title>La liste des papiers</title>
+	<link rel="stylesheet" type="text/css" href="/css/chapter.css" media="all"/>
+</head>
+<body>
+	<nav>
+    <p>
+      <a href="/">papiers.</a><a href="http://hyd.re">hyd.re</a>
+    </p>
+	  <a href="/liste" class="active">La liste des papiers</a>
+	</nav>
+	<article>
+	  <ul class="paperList">{{# paperList }}
+	    <li>
+	      <a href="{{ url }}">{{ paper }}</a>
+        <span class="status">{{ period }}, {{ status }}</span>
+	    </li>{{/ paperList }}
+	  </ul>
+	</article>
+</body>
+</html>

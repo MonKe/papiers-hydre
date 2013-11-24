@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<title>{{ chapter }}, {{ paper }}</title>
+	<link rel="stylesheet" type="text/css" href="/css/chapter.css" media="all"/>
+</head>
+<body>
+	<nav>
+    <p>
+      <a href="/">papiers.</a><a href="http://hyd.re">hyd.re</a>
+    </p>
+    <p>
+      <span class="active">{{ paper }}</span>
+      <span class="status">{{ period }}, {{ status }}</span>
+    </p>
+	  <ol>{{# chapterList }}
+	    <li>
+	      <a href="{{ url }}"{{# active }} class="active"{{/ active }}>{{ chapter }}</a>
+	    </li>{{/ chapterList }}
+	  </ol>
+	  <a href="/liste">La liste des papiers</a>
+	</nav>
+	<article>
+	  {{{ text }}}
+    <footer>
+      {{ comments }}
+      <p>Monke, {{ date }}</p>
+    </footer>
+	</article>
+</body>
+</html>

@@ -1,0 +1,56 @@
+## I
+
+Mes chaussures commencent à être vraiment trempées. L'eau brune tourne dans mon
+dos et vient me lécher les talons, et ça imbibe mes semelles, et l'humidité
+remonte sous la voûte plantaire. Bientôt ça atteindra mes orteils et ça va
+devenir insupportable. Même si c'est le moindre de mes problèmes. Enfin si je
+dois assurer pour les gamins dans ce genre de circonstances j'ai au moins le
+droit d'avoir les pieds au sec, non ? Et le reste d'ailleurs. Le reste n'est pas
+plus sec, ça me ruisselle dans le dos, c'est infernal. Les chaussures ça arrive
+mais le dos trempé comme ça ... C'est mes tennis, mes petites tennis rouges qui
+jouent les innocentes. Je les aime trop et il fallait que je les mette
+aujourd'hui ! Elles vont êtres complètement foutues. L'humidité va les déformer
+et puis il va rester une lie grisâtre au niveau de la semelle, magnifique. Pas
+moyen de les enlever et de les faire sécher d'ailleurs. Enfin les enlever si,
+mais les faire sécher où ? Ça va être irrattrapable
+
+Non, c'est bien quand même, ils sont calmes, ils dessinent, ils sont bien
+habillés, MERCI les parents d'avoir pensé aux kaways et aux parapluies sans quoi
+j'étais dans la ... C'est vraiment instable ce truc, le bureau, ce truc de
+bureau hyper lourd en contreplaqué là, il est complètement bancal. Je le sais,
+ça fait longtemps que je l'ai noté et d'habitude je ne m'appuie pas dessus mais
+il est complètement bancal. Et il est lourd ! Rien qu'à voir comme la scène
+penche, enfin ce qu'il en reste, heureusement que je les ai mis de l'autre bout
+sinon ... Il vaudrait mieux qu'ils ne viennent pas me voir sans prévenir ou on
+part en catapulte. La catastrophe. Non, je leur ai bien dit, c'est moi qui viens
+les voir, ils comprennent, ils sont sages, ils sont calmes, ils sont bien
+habillés, ils dessinent.
+
+Ah ! Ça y est j'en ai plein les chaussures. C'est horrible. J'ai une peau de
+noyée là-dessous, ça se plisse et ça frotte contre la toile et c'est vraiment
+complètement horripilant ! Et dans mon dos c'est la douche parce que la
+maîtresse elle a pas un joli manteau ou un joli parapluie ! La maîtresse elle a
+tout donné ! La maîtresse elle se prend la douche du siècle !
+
+Calme. Du calme. Je suis la maîtresse, je suis mademoiselle Faunette, je suis
+calme. Je ne perds pas mon sang-froid quand il y a un incident, j'ai été formée
+pour ça – je n'ai pas été formée pour ça. Ça me dépasse mais c'est ... Dingue !
+C'est dingue ! Jamais vu autant d'eau de ma vie. D'eau sale. RIP mes jolies
+petites tennis, au revoir mes amours. Mes petits amours. Elles sont trop belles
+ces chaussures ! Bon, étaient trop belles. Quel gâchis. Et le papier aussi, des
+belles feuilles comme ça, si j'avais su j'aurais ramené du journal pour qu'ils
+gribouillent dessus, on s'en fiche du journal, c'est pas du beau papier comme
+ça. Ça coûte cher le papier comme ça, hein ! Attends. Combien déjà la ramette ?
+En tout cas je peux toujours courir pour me les faire rembourser celles-là. Si
+c'est pas « dépense appuyant un projet pédagogique concerté », hé ben ça sort
+de ma poche. Et merci les budgets raccourcis, tiens. Merci l'Éducation Nationale
+en fait. Quoi que s'ils viennent nous chercher avec un canot là je dis plus
+rien, mais si possible avant que les enfants se posent trop de questions, avant
+que je me change moi-même en flaque à force de ruisseler, et avant que le poids
+du bureau nous envoie en cours pratique de sauvetage, merde. Il est vraiment
+complètement bancal ce bureau mais je sais pas de quel pied.
+
+Toute cette eau c'est une sorte de mer, mais crade ! C'est bourbeux,
+gris-marron, il y a des choses qui flottent, je préfère même pas savoir quoi.
+Comme si on avait lavé la cour avec, d'ailleurs, on a lavé la cour avec en
+quelque sorte, et le reste aussi.
