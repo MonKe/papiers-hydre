@@ -5,7 +5,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.active, a[href="/"] {
+.active {
   color: #c22;
 }
 
