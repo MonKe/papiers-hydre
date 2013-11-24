@@ -81,8 +81,8 @@ papers.each { |paper, chapters|
     }
     text = File.read "papers/#{ paper }/#{ chapter }.markdown"
     text += "\n<p class=\"continue\">(à compléter)</p>" unless infos["done"]
-    comment = if infos.has_key? "comment"
-      then Kramdown::Document.new(File.read "papers/#{ paper }/#{ infos["comment"] }.markdown").to_html
+    comment = if File.exists? "papers/#{ paper }/#{ chapter }-comment.markdown"
+      then Kramdown::Document.new(File.read "papers/#{ paper }/#{ chapter }-comment.markdown").to_html
       else ""
     end
     puts "papers/#{ paper }/#{ chapter }"
