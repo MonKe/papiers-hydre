@@ -14,7 +14,7 @@ baseDir = "out/" # + (now.strftime "%Y-%m-%d-%H-%M-%S") + "/"
 
 def toUrl (title)
   chars = {
-    "-" => /[ ]/,
+    "-" => /[ ':_]/,
     "a" => /[áàâä]/,
     "c" => /[ç]/,
     "e" => /[éèêë]/,
@@ -66,7 +66,7 @@ papers.each { |paper, chapters|
     then status = "terminé"
     elsif now.year == range["end"].year
       then status = "en cours"
-      else status = "en attente"
+      else status = "en pause"
   end
   # render and write
   chapList = []
@@ -81,6 +81,11 @@ papers.each { |paper, chapters|
     }
     text = File.read "papers/#{ paper }/#{ chapter }.markdown"
     text += "\n<p class=\"continue\">(à compléter)</p>" unless infos["done"]
+    comment = if infos.has_key? "comment"
+      then Kramdown::Document.new(File.read "papers/#{ paper }/#{ infos["comment"] }.markdown").to_html
+      else ""
+    end
+    puts "papers/#{ paper }/#{ chapter }"
     renderVars = {
       "chapter" => chapter,
       "paper" => paper,
@@ -88,7 +93,7 @@ papers.each { |paper, chapters|
       "status" => status,
       "chapterList" => chapList,
       "text" => Kramdown::Document.new(text).to_html,
-      "comments" => "", # todo
+      "comment" => comment,
       "date" => (infos["date"].strftime "%d/%m/%Y")
     }
     dirs = "#{ baseDir + (toUrl paper) }/#{ toUrl chapter }"

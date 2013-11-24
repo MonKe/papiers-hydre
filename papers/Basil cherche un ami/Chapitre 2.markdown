@@ -1,0 +1,23 @@
+Ma soirée est foutue. Pas que j'ai eu l'intention d'en faire quelque chose, mais là j'ai la mauvaise humeur en plus. Les morts, j'en ai vu un peu trop déjà, ça me glace. Je deviens tout froid, vide comme un poisson sur la planche, et d'un coup je m'en fous. Je m'en fous globalement, comme ça, du voisin d'en face, de la fin du monde, ça ne me touche plus.
+
+J'ai même plus envie de boire. À cause du gargouillis surtout. Ça gâche le goût.
+
+J'ai pas eu droit à un indice potable, non plus. Pas un nom ou une voix reconnaissable, juste un numéro au hasard, prêt à parier n'importe quoi que ça venait d'une cabine téléphonique. Au 21e siècle, quoi, merde. Il y a des limites à vouloir me faire jouer les détectives.
+
+Je prends note, quand même, avec ce reste de professionnalisme qui me donne l'impression d'avoir un vrai métier. Deux lignes de plus dans mon journal du jour, presque une page, désormais. L'enveloppe de la semaine va encore me coûter du timbre.
+
+Et puis comme j'ai plus envie de rien, autant partir en ville, écumer les bars en buvant pas cher. Soirée occupée en prévision. Si j'ai de la chance, je boucle mon enveloppe à coup de confessions de témoins ivres. Pour ça, le meilleur endroit, c'est le Pêcheur.
+
+Le Pêcheur ça a été un bistrot au bord d'un canal, et puis le temps passe, les clefs changent de mains, le café est devenu pub, bar lounge, brasserie-restaurant. Depuis cinq ans c'est un bar « ambiance rock » version biker nostalgique, tenu par un quarantenaire gras étonnamment inoffensif. Un mec aux airs de Bambi obèse qui se serait trompé d'adresse. Dans la salle éclairée tout en néons rouges, lambris et pierre aux murs, il y a des guitares triangulaires accrochées ça et là, le monde sauvage en affiches, des moustachus tatoués qui te regardent en biais, la totale. En face, plus de canal, rebouché. À la place on a des immeubles, grandes vitres sans tain déjà sales, et une supérette aux couleurs acidulées qui font loucher les motards.
+
+Ce que j'aime c'est les habitués. Ils sont une petite dizaine, et certains des plus violacés sont là depuis la belle époque du premier bistrot. Ils ont tout supporté, les rugbymen braillant dans d'autres langues, les mix électroniques agitant les minettes branchées, les miaulements de guitares en solo ; tout ça pour aller prendre le ballon de rouge au bar du coin. La vraie force de l'habitude, c'est eux. Ils ont prouvé que le progrès est impuissant devant l'inertie (et le Côtes-du-Rhône).
+
+Avec de tels piliers au comptoir, peu importe l'ambiance ou le propriétaire du moment, on a toujours une clique de squatteurs avinés, des chercheurs de merde, des bimbos un peu flétries, des gueules tirées qui cherchent l'ombre : une vraie faune. C'est eux que je viens chercher. Ceux qui ont trouvé d'autres moyens que moi de rater leur vie. C'est dans leurs rangs qu'on retrouve les douteux, les criminels, les braves gens qui tombent le masque. Ceux qui se révèlent devant moi.
+
+Quand je pousserai la porte vitrée du Pêcheur, tout à l'heure, il y aura comme d'habitude un couple qui se met à se disputer très fort, le barman qui astique son verre en ricanant comme un malade ou encore un vieux balafré qui s'amuse avec son couteau. Je m'installerai une heure ou deux, juste le temps de corrompre l'ambiance, et puis avec de la chance j'attraperai un gros poisson. C'est mon rôle préféré : plutôt que d'attirer un vieux maire avec une tête de gentil, je joue l'aimant à coupables. Humble, altruiste, dévoué. Je m'aime.
+
+J'attrape ma moins belle paire de chaussures, et je tangue vers le dehors. Tiens ? Plus attaqué que je ne le pensais. Le mur de droite se rapproche, mais je le boxe et il se tient à carreaux. Mal aux poings.
+
+Rendu dans le hall d'entrée le regard de la concierge me punaise au mur. Elle est là, dans sa loge éteinte, l'œil brillant, immobile. Parcourant les crevasses de ses lèvres avec sa langue. Sur le coin de table visible, un sac poubelle bouge. Je fais semblant de n'avoir rien vu. Je sors. Il pleut sous la nuit, même les réverbères se noient. Je broie mon mort au téléphone dans un coin de ma tête, et je pars, le nez au vent mouillé, soudain courageux.
+
+Il y a dans mon estomac la promesse d'un verre plein.

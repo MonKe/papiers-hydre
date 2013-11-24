@@ -61,12 +61,38 @@ nav > p .status, .paperList .status {
   display: block;
 }
 
+h1 {
+  font: inherit;
+  font-variant: small-caps;
+  margin: 1em auto 2em;
+  text-align: center;
+  text-decoration: underline;
+  width: 40em; 
+}
+
 h2, .continue {
   font: inherit;
   font-variant: small-caps;
   text-align: center;
 }
 
+hr {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  margin: 3em auto 4em;
+  text-align: center;
+}
+hr:before {
+  content: "* * *"
+}
+
 .paperList {
   list-style: none;
+}
+.paperList li {
+  float: left;
+  margin: 0 0 2em;
+  width: 33%;
 }
