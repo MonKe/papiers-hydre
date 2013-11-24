@@ -1,0 +1,98 @@
+a {
+  color: #888;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.active, a[href="/"] {
+  color: #c22;
+}
+
+article {
+  float: right;
+  width: 80%;
+}
+article p {
+  margin: 1em auto 2em;
+  max-width: 90%;
+  width: 40em;
+}
+article blockquote {
+  margin: 2em 0;
+}
+article blockquote h4 {
+  font-weight: normal;
+  margin: 0 auto;
+  max-width: 90%;
+  width: 40em;
+}
+article blockquote p {
+  margin: 0 auto;
+  max-width: 90%;
+  padding-left: 2em;
+  width: 38em;
+}
+
+body {
+  font: 1em/1.6em "URW Bookman L", serif;
+  margin: 3em;
+}
+
+footer {
+  color: #888;
+  text-align: right;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  color: #888;
+  float: left;
+  width: 20%;
+}
+nav > a {
+  display: block;
+}
+nav > p .status, .paperList .status {
+  font: .8em/1em "URW Bookman L", serif;
+  display: block;
+}
+
+h1 {
+  font: inherit;
+  font-variant: small-caps;
+  margin: 1em auto 2em;
+  text-align: center;
+  text-decoration: underline;
+  width: 40em; 
+}
+
+h2, .continue {
+  font: inherit;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+hr {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  margin: 3em auto 4em;
+  text-align: center;
+}
+hr:before {
+  content: "* * *"
+}
+
+.paperList {
+  list-style: none;
+}
+.paperList li {
+  float: left;
+  margin: 0 0 2em;
+  width: 33%;
+}
