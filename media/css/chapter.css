@@ -56,6 +56,10 @@ nav {
 nav > a {
   display: block;
 }
+nav > ol {
+  list-style: none;
+  padding-left: 1em;
+}
 nav > p .status, .paperList .status {
   font: .8em/1em "URW Bookman L", serif;
   display: block;
