@@ -1,42 +1,58 @@
 "Nouvelles":
-  "Trois petits spacioporcs":
-    date: 2013-10-06
-    done: Yes
+  "Classe de Noé":
+    date: 2013-10-10
+    done: No
   "Petit-paon":
     date: 2013-10-10
     done: Yes
-  "Classe de Noé":
-    date: 2013-10-10
+  "Trois petits spacioporcs":
+    date: 2013-10-06
+    done: Yes
+  "Le marais des spatulettes":
+    date: 2007-01-01
+    done: No
+  "J'ai vu par les yeux d'Aka":
+    date: 2006-01-01
+    done: No
+  "Afraid by me":
+    date: 2006-01-01
+    done: No
+  "Acides":
+    date: 2006-01-01
+    done: Yes
+  "Un pied dans ta tombe":
+    date: 2005-01-01
     done: No
 "Georgio l'apatride":
   "Mai 41":
     date: 2013-09-13
     done: No
-    comment: "readme"
 "Exutoires":
+  "This same new day":
+    date: 2012-10-17
+    done: Yes
   "Le sommeil en miettes de pain":
     date: 2012-05-14
     done: Yes
-  "This same new day":
-    date: 2012-10-17
+  "18 mars 2005 - 22h":
+    date: 2005-03-18
     done: Yes
 "Carnets de route":
   "9-11 Paris":
     date: 2011-09-16
     done: No
 "Slam":
-  "Confiance 1":
-    date: 2010-06-09
-    done: Yes
-    comment: "readme"
-  "Confiance 2":
-    date: 2010-06-09
+  "C'est du propre":
+    date: 2011-02-21
     done: Yes
   "Zéro":
     date: 2010-12-02
     done: Yes
-  "C'est du propre":
-    date: 2011-02-21
+  "Confiance 1":
+    date: 2010-06-09
+    done: Yes
+  "Confiance 2":
+    date: 2010-06-09
     done: Yes
 "Basil cherche un ami":
   "Chapitre 1":
@@ -50,12 +66,18 @@
     done: Yes
     date: 2011-11-02
 "Rêves":
-  "2008-08-21":
-    date: 2008-08-21
-    done: No
+  "2010-16-06 09:00":
+    date: 2010-06-16
+    done: Yes
   "2010-15-06 10:30":
     date: 2010-06-15
     done: Yes
-  "2010-16-06 09:00":
-    date: 2010-06-16
+  "2008-08-21":
+    date: 2008-08-21
+    done: No
+  "Non daté 2":
+    date: 2005-01-01
+    done: No
+  "7 octobre 2004":
+    date: 2004-10-07
     done: Yes
