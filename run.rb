@@ -94,7 +94,8 @@ papers.each { |paper, chapters|
       "chapterList" => chapList,
       "text" => Kramdown::Document.new(text).to_html,
       "comment" => comment,
-      "date" => (infos["date"].strftime "%d/%m/%Y")
+      "date" => (infos["date"].strftime "%d/%m/%Y"),
+      "author" => infos["author"]
     }
     dirs = "#{ baseDir + (toUrl paper) }/#{ toUrl chapter }"
     FileUtils.mkdir_p dirs
@@ -107,7 +108,6 @@ papers.each { |paper, chapters|
   paperList << {
     "url" => chapList[0]["url"],
     "paper" => paper,
-    "chapter" => chapList[0]["chapter"],
     "period" => period,
     "status" => status
   }

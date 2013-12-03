@@ -17,7 +17,7 @@
 	  <ol>{{# chapterList }}
 	    <li>
 	      <a href="../..{{ url }}"{{# active }} class="active"{{/ active }}>{{ chapter }}</a>{{# active }}
-	      <span class="status">{{ date }}</span>{{/ active }}
+	      <span class="status">{{ author }}, {{ date }}</span>{{/ active }}
 	    </li>{{/ chapterList }}
 	  </ol>
 	  <a href="../../liste">La liste des papiers</a>
@@ -25,10 +25,7 @@
 	</nav>
 	<article>
 	  {{{ text }}}
-    <footer>
-      {{{ comment }}}
-      <p>Monke, {{ date }}</p>
-    </footer>
+    <footer>{{{ comment }}}</footer>
 	</article>
 </body>
 </html>
