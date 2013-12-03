@@ -11,9 +11,6 @@
   "Le marais des spatulettes":
     date: 2007-01-01
     done: No
-  "J'ai vu par les yeux d'Aka":
-    date: 2006-01-01
-    done: No
   "Acides":
     date: 2006-01-01
     done: Yes
@@ -78,6 +75,13 @@
   "7 octobre 2004":
     date: 2004-10-07
     done: Yes
+"J'ai vu par les yeux d'Aka":
+  "I":
+    date: 2006-01-01
+    done: Yes
+  "II":
+    date: 2006-01-01
+    done: No
 "Afraid by me":
   "1":
     date: 2006-01-01
