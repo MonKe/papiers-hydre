@@ -16,7 +16,8 @@
     </p>
 	  <ol>{{# chapterList }}
 	    <li>
-	      <a href="../..{{ url }}"{{# active }} class="active"{{/ active }}>{{ chapter }}</a>
+	      <a href="../..{{ url }}"{{# active }} class="active"{{/ active }}>{{ chapter }}</a>{{# active }}
+	      <span class="status">{{ date }}</span>{{/ active }}
 	    </li>{{/ chapterList }}
 	  </ol>
 	  <a href="../../liste">La liste des papiers</a>
