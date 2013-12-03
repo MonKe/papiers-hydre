@@ -35,7 +35,7 @@ article blockquote p {
 }
 
 body {
-  font: 1em/1.6em "URW Bookman L", serif;
+  font: 1em/1.6em "droid_serifregular", "URW Bookman L", serif;
   margin: 3em;
 }
 

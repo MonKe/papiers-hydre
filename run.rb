@@ -113,8 +113,7 @@ papers.each { |paper, chapters|
   }
 }
 # css
-FileUtils.mkdir(baseDir + "css")
-FileUtils.cp("media/css/chapter.css", (baseDir + "css/chapter.css"))
+FileUtils.cp_r("media/css", baseDir + "css")
 # render and write homepage
 FileUtils.cp "tpl/hello.mustache", (baseDir + "index.html")
 # render and write paper list
