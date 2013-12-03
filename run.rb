@@ -107,6 +107,7 @@ papers.each { |paper, chapters|
   paperList << {
     "url" => chapList[0]["url"],
     "paper" => paper,
+    "chapter" => chapList[0]["chapter"],
     "period" => period,
     "status" => status
   }
